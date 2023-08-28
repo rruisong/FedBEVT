@@ -1,0 +1,108 @@
+clients:
+  num_client: 25
+  names: ["client_1", "client_2", "client_3", "client_4",
+          "client_5", "client_6", "client_7", "client_8",
+          "client_9", "client_10", "client_11", "client_12",
+          "client_13", "client_14", "client_15", "client_16",
+          "client_17", "client_18", "client_19", "client_20",
+          "client_21", "client_22", "client_23", "client_24"]
+  client_1:
+    attribute: 'bus'
+    train_dir_list: ['2023_01_28_11_49_09', '2023_01_27_12_56_14']
+    test_dir_list: ['2023_01_27_14_58_23']
+  client_2:
+    attribute: 'bus'
+    train_dir_list: ['2023_02_01_09_06_16']
+    test_dir_list: ['2023_02_01_09_16_21']
+  client_3:
+    attribute: 'bus'
+    train_dir_list: [ '2023_02_01_10_07_54']
+    test_dir_list: [ '2023_01_27_15_27_15']
+  client_4:
+    attribute: 'truck'
+    train_dir_list: ['2023_02_04_11_13_09']
+    test_dir_list: ['2023_02_04_11_17_52']
+  client_5:
+    attribute: 'truck'
+    train_dir_list: ['2023_02_04_11_20_43']
+    test_dir_list: ['2023_02_04_11_23_18']
+  client_6:
+    attribute: 'truck'
+    train_dir_list: ['2023_02_04_11_25_02']
+    test_dir_list: ['2023_02_04_12_00_04']
+  client_7:
+    attribute: 'truck'
+    train_dir_list: [ '2023_02_04_12_26_09', '2023_02_04_12_27_43']
+    test_dir_list: ['2023_02_04_13_04_41']
+  client_8:
+    attribute: "car"
+    train_dir_list: [ '2021_09_09_22_21_11', '2021_09_09_23_21_21' ]
+    test_dir_list: [ '2021_09_10_12_07_11' ]
+  client_9:
+    attribute: 'car'
+    train_dir_list: ['2021_08_18_23_23_19']
+    test_dir_list: ['2021_08_19_15_07_39']
+  client_10:
+    attribute: 'car'
+    train_dir_list: ['2021_08_20_16_20_46']
+    test_dir_list: ['2021_08_20_20_39_00']
+  client_11:
+    attribute: 'car'
+    train_dir_list: [ '2021_08_20_21_00_19']
+    test_dir_list: ['2021_08_21_09_09_41']
+  client_12:
+    attribute: 'car'
+    train_dir_list: ['2021_08_21_15_41_04']
+    test_dir_list: ['2021_08_21_16_08_42']
+  client_13:
+    attribute: 'car'
+    train_dir_list: [ '2021_08_21_17_00_32']
+    test_dir_list: [ '2021_08_21_21_35_56']
+  client_14:
+    attribute: 'car'
+    train_dir_list: ['2021_08_21_22_21_37']
+    test_dir_list: ['2021_08_22_06_43_37']
+  client_15:
+    attribute: 'car'
+    train_dir_list: [ '2021_08_22_07_24_12']
+    test_dir_list: ['2021_08_22_08_39_02']
+  client_16:
+    attribute: "car"
+    train_dir_list: ['2021_08_22_10_10_40']
+    test_dir_list: ['2021_08_24_09_25_42']
+  client_17:
+    attribute: "car"
+    train_dir_list: [ '2021_08_22_09_43_53']
+    test_dir_list: ['2021_08_24_09_58_32']
+  client_18:
+    attribute: "car"
+    train_dir_list: ['2021_08_24_12_19_30']
+    test_dir_list: ['2021_08_24_21_29_28']
+  client_19:
+    attribute: "car"
+    train_dir_list: ['2021_08_22_10_46_58']
+    test_dir_list: ['2021_08_22_11_29_38']
+  client_20:
+    attribute: "car"
+    train_dir_list: ['2021_08_22_22_30_58']
+    test_dir_list: ['2021_08_23_10_47_16']
+  client_21:
+    attribute: "car"
+    train_dir_list: ['2021_08_23_11_06_41']
+    test_dir_list: ['2021_08_23_11_22_46']
+  client_22:
+    attribute: "car"
+    train_dir_list: ['2021_08_23_12_13_48']
+    test_dir_list: ['2021_08_23_13_10_47']
+  client_23:
+    attribute: "car"
+    train_dir_list: ['2021_08_23_16_42_39']
+    test_dir_list: ['2021_08_23_17_07_55']
+  client_24:
+    attribute: "car"
+    train_dir_list: ['2021_08_23_19_27_57']
+    test_dir_list: ['2021_08_23_20_47_11']
+
+
+
+
