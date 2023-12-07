@@ -1,3 +1,6 @@
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2304.01534.pdf)
+[![supplement](https://img.shields.io/badge/Supplementary-Material-red)](https://arxiv.org/pdf/2304.01534.pdf)
+
 # <div align="center">**FedBEVT: Federated Learning Bird’s Eye View Perception Transformer in Road Traffic Systems**</div>
 
 FedBEVT is a federated learning framework to train a transformer-based model for road environmental BEV perception.
@@ -139,12 +142,13 @@ Exp ID | `--config` |  `--per`
 # Citation
 If you find FedBEVT is useful, please cite our work:
 ```bibtex
-@article{song2023fedbevt,
-  title={FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems},
+@ARTICLE{song2023fedbevt,
   author={Song, Rui and Xu, Runsheng and Festag, Andreas and Ma, Jiaqi and Knoll, Alois},
-  journal={arXiv preprint arXiv:2304.01534},
-  year={2023}
-}
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems}, 
+  year={2023},
+  pages={1-12},
+  doi={10.1109/TIV.2023.3310674}}
 ```
 
 # Acknowledgement
